@@ -1,4 +1,4 @@
-# Todo Reconocimiento Voz
+# TODO Reconocimiento Voz
 Todo List con reconocimiento de voz y uso de Class con JavaScript Vanilla.
 
 Preview:
