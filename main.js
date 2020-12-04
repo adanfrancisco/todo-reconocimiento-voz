@@ -85,6 +85,8 @@ if (!('webkitSpeechRecognition' in window)) {
 }
 
 new item('Hacer tareas.')
+new item('Crear una aplicación reactiva.')
+new item('Crear un aplicación con reconocimiento de voz')
 
 const addItem = () => {
 	if ($text.value === '') {
